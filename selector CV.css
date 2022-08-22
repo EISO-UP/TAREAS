@@ -1,0 +1,20 @@
+html {
+    text-align:center;
+}
+
+div h1 {
+    font-weight: 700;
+    color:red;
+}
+
+.border{
+    /* border:5px black solid; */
+    border-radius: 5px;
+    border-color:rgb(38, 94, 199);
+    border-style:ridge;
+    border-width: 5px;
+
+    margin:15px;
+    padding:15px;
+
+}
